@@ -20,3 +20,7 @@ This project is designed to help students understand collaborative software deve
 - Pull request reviews  
 - Merge conflict handling  
 - Collaborative documentation using Markdown
+
+## Project Mission Statement
+
+The Shared Library of Wisdom aims to preserve, organize, and share knowledge collaboratively using Git and GitHub while encouraging teamwork and proper version control practices.
